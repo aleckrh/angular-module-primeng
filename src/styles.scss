@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+/* PrimeNG */
+@import "primeflex/primeflex.css";
+
+html {
+  font-family: "Poppins", serif;
+  font-size: 14px;
+}
+
+body {
+  background: var(--p-primary-50);
+  color: var(--p-primary-950);
+}
