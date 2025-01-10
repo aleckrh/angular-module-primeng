@@ -1,12 +1,2 @@
-/* PrimeNG */
-@import "primeflex/primeflex.css";
-
-html {
-  font-family: "Poppins", serif;
-  font-size: 14px;
-}
-
-body {
-  background: var(--p-primary-50);
-  color: var(--p-primary-950);
-}
+@use './tailwind.css';
+@use './assets/layout/layout.scss';
