@@ -49,7 +49,6 @@ import { ButtonModule } from 'primeng/button';
               light: {
                 primary: {
                   color: '{zinc.950}',
-                  inverseColor: '#ffffff',
                   hoverColor: '{zinc.900}',
                   activeColor: '{zinc.800}'
                 },
@@ -63,7 +62,6 @@ import { ButtonModule } from 'primeng/button';
               dark: {
                 primary: {
                   color: '{zinc.50}',
-                  inverseColor: '{zinc.950}',
                   hoverColor: '{zinc.100}',
                   activeColor: '{zinc.200}'
                 },
